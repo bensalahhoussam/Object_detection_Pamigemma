@@ -18,5 +18,5 @@ This layer integrates outputs from both the vision and language processing modul
 
 ## Demo
 
-https://github.com/user-attachments/assets/8603428a-2190-444b-ade5-6fdd2bf72826
+https://github.com/user-attachments/assets/d531b97a-8ef5-4762-a789-4a0d7366074a
 
